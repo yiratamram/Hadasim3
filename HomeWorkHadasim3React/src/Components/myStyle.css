@@ -1,0 +1,59 @@
+
+.mysize{
+    padding-top: 20px !important;
+    padding-bottom: 150px !important;
+    float: right !important;
+    
+
+
+}
+.bDate{
+    float:right !important;
+    padding-left: 10px !important;
+    color:white !important;
+}
+.nav-link{
+    color:white!important;
+}
+.home{
+    padding-bottom: 150px !important;
+    text-align: center;
+}
+.ccc{
+    width:100px !important;
+    height: 100px !important;
+}
+.cm{
+    float:right !important;
+}
+.btn1
+{
+    float:right  !important;
+    margin-top: 10px !important;
+    padding-top: 0px !important;
+    background-color: rgb(57, 57, 141) !important;
+}
+.myLine
+{
+    width: 50px !important;
+    height: 20px !important;
+}
+.colorw{
+    color:white !important;
+}
+h1{
+    color:white !important;
+}
+
+.rol{
+    width: 250px !important;
+    height: 250px !important;
+    color: black !important;
+    
+}
+h2{
+    text-align: center;
+}
+.pdate{
+    color:white !important; 
+}

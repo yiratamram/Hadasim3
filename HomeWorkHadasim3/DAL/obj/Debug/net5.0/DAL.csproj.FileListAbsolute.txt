@@ -1,0 +1,15 @@
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\bin\Debug\net5.0\DAL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\bin\Debug\net5.0\ref\DAL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Programing\HadasimProject\HomeWorkHadasim3\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache

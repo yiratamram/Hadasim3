@@ -1,0 +1,17 @@
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\BLL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\ref\BLL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\DAL.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\DTO.dll
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\bin\Debug\net5.0\DTO.pdb
+D:\Programing\HadasimProject\HomeWorkHadasim3\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
